@@ -1,6 +1,6 @@
 # FPGA Sequence FSM
 
-A small digital design project built to revisit concepts from ECE 2277 including finite state machines, D flip-flops, sequential logic, and waveform simulation.
+A small digital design project built to revisit concepts from ECE including finite state machines, D flip-flops, sequential logic, and waveform simulation.
 
 The circuit continuously cycles through the sequence:
 
