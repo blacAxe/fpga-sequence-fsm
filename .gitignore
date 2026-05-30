@@ -1,0 +1,15 @@
+# Icarus Verilog output
+*.vvp
+
+# Waveform dumps
+*.vcd
+
+# GTKWave save files
+*.gtkw
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+.DS_Store
